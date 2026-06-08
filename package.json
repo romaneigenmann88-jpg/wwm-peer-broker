@@ -1,0 +1,16 @@
+{
+  "name": "wwm-peer-broker",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Eigener PeerJS-Signalisierungs-Broker fuer WWM-Live",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "peer": "^1.0.2"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
